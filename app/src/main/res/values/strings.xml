@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">databaseGroupH</string>
     <string name="welcome_textview">Welcome to ClassroomSearch!</string>
+    <string name="homepageSubmit_btn">Submit</string>
 </resources>
