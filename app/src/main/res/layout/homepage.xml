@@ -7,7 +7,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/welcome_textview"
-        android:id="@+id/textView"
+        android:id="@+id/home_textView1"
         android:layout_gravity="center_horizontal"
         android:textSize="22sp"
         android:textColor="@color/abc_primary_text_disable_only_material_light"
@@ -17,7 +17,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText"
+        android:id="@+id/home_editText1"
         android:layout_gravity="center_horizontal"
         android:hint="UserName"
         android:layout_marginLeft="100dp"
@@ -27,7 +27,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/editText3"
+        android:id="@+id/home_editText2"
         android:layout_gravity="center_horizontal"
         android:hint="PassWord"
         android:layout_marginLeft="100dp"

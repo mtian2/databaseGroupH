@@ -3,4 +3,5 @@
     <string name="welcome_textview">Welcome to ClassroomSearch!</string>
     <string name="homepageSubmit_btn">Submit</string>
     <string name="studentName">Student Name</string>
+    <string name="date">Date</string>
 </resources>
